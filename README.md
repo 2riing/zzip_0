@@ -13,16 +13,22 @@
 
 - **FrontEnd**
     
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/recoil-000000?style=flat&logo=recoil&logoColor=white"/>
+- React
+- Next.js
+- Recoil
     
 - **BackEnd**
-    
-    <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="100" height="100"><img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FSn2Dj%2Fbtq0nPrl873%2FACS7qrimAoVuTS8oriAnv0%2Fimg.jpg" width="100" height="100"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="100" height="100"><img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-horizontal-blue.svg" width="100" height="100"></div>
+
+- Java
+- Spring
+- MariaDB
+
     
 - **CI/CD**
-    
-    <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="100" height="100"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="100" height="100"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="100" height="100"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/339px-Jenkins_logo.svg.png?20120629215426" width="100" height="100"></div>
-    
+
+- NGINX
+- AWS
+- Jenkins
 
 ---
 
