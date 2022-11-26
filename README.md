@@ -13,7 +13,7 @@
 
 - **FrontEnd**
     
-React, Next.js, Recoil
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/recoil-000000?style=flat&logo=recoil&logoColor=white"/>
     
 - **BackEnd**
     
