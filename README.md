@@ -13,22 +13,22 @@
 
 - **FrontEnd**
     
-- React
-- Next.js
-- Recoil
+    - React
+    - Next.js
+    - Recoil
     
 - **BackEnd**
 
-- Java
-- Spring
-- MariaDB
+    - Java
+    - Spring
+    - MariaDB
 
     
 - **CI/CD**
 
-- NGINX
-- AWS
-- Jenkins
+    - NGINX
+    - AWS
+    - Jenkins
 
 ---
 
