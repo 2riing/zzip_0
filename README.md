@@ -56,19 +56,18 @@
 
 ##### 3. 기록 요소
 
-
+![service3_1](https://user-images.githubusercontent.com/97645988/204092672-8e3a9be7-46e1-4313-b0cf-195b5b442945.png)
 
 ```
 메모 기능
 ```
 
+![dday](https://user-images.githubusercontent.com/97645988/204092667-32776c09-cfdd-4bc7-b86a-066830a8f286.gif)
 
 
 ```
 일정 관리를 위한 D-Day 관리
 ```
-
-![service3_3](./images/service3_3.gif)
 
 ```
 어떤 과목을 어떤 날짜에 어떻게 공부할지 관리하기 위한 To-do List
@@ -77,21 +76,22 @@
 
 ##### 4. 타이머
 
-![service4_1](./images/service4_1.gif)
+![service4_1](https://user-images.githubusercontent.com/97645988/204092697-f35120ec-e44d-4a8f-8c6c-df49e5ccfb43.gif)
+
 
 ```
 오늘 할 일을 계획하지 않았거나 가볍게 공부하고 싶을 때 사용하기 위한
 카운트 업 방식의 타이머
 ```
 
-![service4_2](./images/service4_2.gif)
+![service4_2](https://user-images.githubusercontent.com/97645988/204092711-ce5ac504-7d42-4a3c-9a29-89e7f0be236e.gif)
+
 
 ```
 To-do List에 기록된 공부를 얼마나 했는지 측정하기 위한
 카운트 업 방식의 할일 타이머
 ```
 
-![service4_3](./images/service4_3.gif)
 
 ```
 수능 수험환경에서 시험을 보는 느낌을 주기 위한
