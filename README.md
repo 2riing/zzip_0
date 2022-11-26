@@ -28,7 +28,8 @@
 
 ### 아키텍쳐
 
-![arc](./images/arc.png)
+<img width="898" alt="arc" src="https://user-images.githubusercontent.com/97645988/204092616-7d39a1f8-c718-49a2-b89d-a47c24171be1.png">
+
 
 ---
 
@@ -36,7 +37,7 @@
 
 ##### 1. 공부방
 
-![service1](./images/service1.png)
+
 
 ```
 공부를 할 수 있도록 각종 서비스가 제공되는 장소
@@ -45,7 +46,8 @@
 
 ##### 2. 테마별 영상
 
-![service2](./images/service2.gif)
+
+
 
 ```
 외부 장소에서 공부하는 듯한 영상을 재생해 분위기를 조성할 수 있음
@@ -54,13 +56,13 @@
 
 ##### 3. 기록 요소
 
-![service3_1](./images/service3_1.png)
+
 
 ```
 메모 기능
 ```
 
-![service3_2](./images/service3_2.gif)
+
 
 ```
 일정 관리를 위한 D-Day 관리
