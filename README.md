@@ -92,6 +92,8 @@ To-do List에 기록된 공부를 얼마나 했는지 측정하기 위한
 카운트 업 방식의 할일 타이머
 ```
 
+![service3_1](https://user-images.githubusercontent.com/97645988/204092728-a4d6f85e-630a-44ef-96b0-7d254117b4d0.png)
+
 
 ```
 수능 수험환경에서 시험을 보는 느낌을 주기 위한
@@ -100,7 +102,8 @@ To-do List에 기록된 공부를 얼마나 했는지 측정하기 위한
 
 ##### 5. 타임 뷰
 
-![service5](./images/service5.gif)
+![chart](https://user-images.githubusercontent.com/97645988/204092734-43a1e2b3-adbb-468e-83cb-c04cc1aa395c.gif)
+
 
 ```
 과목별 공부량을 일별, 월별, 연도별로 차트를 통해 제공
@@ -108,13 +111,15 @@ To-do List에 기록된 공부를 얼마나 했는지 측정하기 위한
 
 ##### 6. 커뮤니티
 
-![service6_1](./images/service6_1.gif)
+![chat](https://user-images.githubusercontent.com/97645988/204092739-c7209d02-5a30-41d5-8402-cf48ec951205.gif)
+
 
 ```
 공부방 구성원 간 상호작용이 가능한 채팅
 ```
 
-![service6_2](./images/service6_2.gif)
+![follow](https://user-images.githubusercontent.com/97645988/204092740-0ca788ec-7d1a-49ea-b07a-fd5c9f39f715.gif)
+
 
 ```
 마음에 드는 상대를 추가할 수 있는 팔로우
